@@ -1,1 +1,2 @@
 # maven-demo
+This is a test project created to build a coffee machine. This coffee machine tries to get input from the user . Inputs are money and product choice. Based on these inputs, the product is made and dispensed. If the user had provided extra money, balance will be repaid. If the money is less paid, the product will not be dispensed. BUt the money will be reimbursed. Products have only one ingredient now i.e is Sugar and they differ based on the quantity of sugar.
